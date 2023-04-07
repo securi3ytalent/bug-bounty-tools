@@ -1,6 +1,6 @@
 # bug-bounty-tools
 
-#Golang in Kali Linux
+# Golang in Kali Linux
 
 1. Start by open your web browser and visit https://golang.org/dl/
 2. Download the latest version for Linux – “gox.xx.x.linux-amd64.tar.gz”
@@ -22,7 +22,7 @@ Add the following paths to the end of the file__
 7. go version
 
 
-#anew tool in kali linux
+# anew tool in kali linux
 
 1. sudo go install -v github.com/tomnomnom/anew@latest && sudo cp /root/go/bin/anew /usr/bin/
 2. You can check the installation by running: anew -h command.
